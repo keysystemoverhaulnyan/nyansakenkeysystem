@@ -1,5 +1,5 @@
 return {
-    "IMSG",
-    "W2YS",
-    "PJJJ"
+    "8ZXN",
+    "3F2Y",
+    "EYO9"
 }
